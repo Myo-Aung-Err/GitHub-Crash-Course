@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    background-color: blanchedalmond;
+    background-color:darkslategrey;
     font-family: 'Courier New', Courier, monospace;
     display: flex;
     align-items: center;
@@ -14,4 +14,7 @@ body {
     width: 7rem;
     height: 7rem;
     margin-top: 2rem;
+}
+a {
+    color: #fee389;
 }
